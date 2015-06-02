@@ -15,7 +15,10 @@ The code uses few dependencies. There is a basic Makefile that has worked on at 
 
 ## Citations:
 Casimir interactions between magnetic flux tubes in a dense lattice
+
 Dan Mazur and Jeremy S. Heyl
+
 Phys. Rev. D 91, 065019 – Published 16 March 2015
+
 http://journals.aps.org/prd/abstract/10.1103/PhysRevD.91.065019
 
